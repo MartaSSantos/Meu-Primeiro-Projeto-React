@@ -22,6 +22,6 @@ Projeto feito com ReactJS utilizando o vite, com componetização e uso de props
 ###Para rodar o projeto localmentew, de íniciao é necessário realizar o comando no gitBash - Fork - Clone - Baixa as dependências. Após esse procedimento, e necessário abrir o terminal (ex. code) e depois rodar o projeto com o comando npm run dev.
 
 # Este é o meu primeiro Projeto!
-[image](https://jovial-granita-ccb680.netlify.app/) 
+[ReactJS](https://jovial-granita-ccb680.netlify.app/)  
 
 ;D
