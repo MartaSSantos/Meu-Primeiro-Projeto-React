@@ -14,7 +14,7 @@ Projeto feito com ReactJS utilizando o vite, com componetização e uso de props
 * Props - função é um componente React válido porque aceita um único argumento de objeto “props” (que significa propriedades) com dados e retorna um elemento React;
 * Components - são como funções que retornam elementos HTML.
 
-###Tecnologias usadas:
+##Tecnologias usadas:
 * Vite;
 * NPM;
 * ReactJS.
