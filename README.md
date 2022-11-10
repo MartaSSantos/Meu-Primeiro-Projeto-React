@@ -2,7 +2,7 @@
 
 ### Esta semana tive meu primeiro contato com React, irei citar algumas coisas que aprendi!👩🏾‍💻 🎉🎉
 * ReactJS
-* Component
+* Componente
 * Props 
  # Projeto de React - Semana 01 (ProjetoReact)
 
